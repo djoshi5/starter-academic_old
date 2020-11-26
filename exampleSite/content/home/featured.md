@@ -13,7 +13,7 @@ headless: true
 weight: 80
 
 title: Featured Publications
-subtitle: ""
+subtitle: "Unsupervised Learning for Critical Event Detection Using Historical PMU Data"
 
 content:
   # Page type to display. E.g. post, talk, publication...
@@ -22,10 +22,10 @@ content:
   count: 0
   # Filter on criteria
   filters:
-    author: ""
-    category: ""
-    publication_type: ""
-    tag: ""
+    author: "Dhawal Joshi"
+    category: "Energy, Data Science"
+    publication_type: "Thesis/Dissertation"
+    tag: "Phasor Measurement Unit, Machine Learning"
   # Page order: descending (desc) or ascending (asc) date.
   order: desc
   # Show a "See all" link?

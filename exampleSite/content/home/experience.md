@@ -25,22 +25,38 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   You can begin a multiline `description` using YAML's `|-`.
 experience:
-- company: GenCoin
-  company_url: ""
-  date_end: ""
-  date_start: "2017-01-01"
+- company: UNC Charlotte
+  company_url: "https://www.uncc.edu/"
+  date_end: "May 2020"
+  date_start: "November 2018"
   description: |-
     Responsibilities include:
-    * Analysing
-    * Modelling
-    * Deploying
-  location: California
-  title: CEO
-- company: University X
-  company_url: ""
-  date_end: "2016-12-31"
-  date_start: "2016-01-01"
-  description: Taught electronic engineering and researched semiconductor physics.
-  location: California
-  title: Professor
+    * Developed anomaly detection models for power grid sensor data 
+    * Developed short term load forecasts
+    * Successfully built statistical models to analyse paint droplet size distribution
+    * Lead role programming Micro Phasor Measurement Unit via LabVIEW FPGA
+  location: Charlotte, NC
+  title: Research Assistant
+- company: UNC Charlotte
+  company_url: "https://et.uncc.edu/"
+  date_end: "July 2020"
+  date_start: "January 2018"
+  description: |-
+    Responsibilities include:
+    * Managing 105 students for engineering technology for three courses, including Electronics I, Electronic Circuits and Devices, and Network Analysis
+    * Identifying structure for course management; supporting professor with grading and conducting lab sessions
+  location: Charlotte, NC
+  title: Teaching Assistant
+- company: Energize Sustainable Solutions
+  company_url: "http://www.energizeindia.com/"
+  date_end: "July 2018"
+  date_start: "December 2017"
+  Responsibilities include:
+    * Managing system compliance along with system integration design for Solar Water Dual Pumps and Solar Irrigation Pumps 
+    * Designing database to store financial and technical specifications of available components to improve quality of analytics for clients
+    * Creating data pipelines for optimizing financial and technical client specifications
+    * Conducting corporate client interactions to communicate social welfare created by the system
+    * Communicating technical details of Solar Rooftop design and installation with more than 20 clients
+  location: Nagpur, India
+  title: Assistant Engineer
 ---

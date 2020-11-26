@@ -15,22 +15,34 @@ subtitle = ""
 # For available icons, see: https://sourcethemes.com/academic/docs/page-builder/#icons
 
 [[feature]]
-  icon = "r-project"
-  icon_pack = "fab"
-  name = "R"
-  description = "90%"
+  icon = "fa-code"
+  icon_pack = "fas"
+  name = "Languages"
+  description = "Python, MATLAB"
   
 [[feature]]
-  icon = "chart-line"
+  icon = "fa-analystics"
+  icon_pack = "fas"
+  name = "Data Analytics"
+  description = "Anomaly Detection, Timeseries Analysis, Predictive Analysis, Forecasting, Data Mining"  
+  
+[[feature]]
+  icon = "fa-database"
+  icon_pack = "fas"
+  name = "Database"
+  description = "MySQL"
+
+[[feature]]
+  icon = "fa-chart-line"
   icon_pack = "fas"
   name = "Statistics"
-  description = "100%"  
-  
+  description = "Hypothesis testing, Regression Models, K-NN"
+
 [[feature]]
-  icon = "camera-retro"
+  icon = "fa-chart-pie"
   icon_pack = "fas"
-  name = "Photography"
-  description = "10%"
+  name = "Visualization"
+  description = "Tableau, matplotlib, seaborn, plotly, dash"
 
 # Uncomment to use emoji icons.
 # [[feature]]
